@@ -8,4 +8,6 @@ for (let i = 0; i < 4 ; i++){
 
 numeros.sort((a,b) => a - b)
 
+
+alert("Odem decrescente:" + numeros);
 }
