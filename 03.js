@@ -6,6 +6,6 @@ function balabcoAnual(){
     for(let i = 1; i <= meses; i++){
 
         let ganho = Number(prompt("Ganho do mes: " + i))
-         let gasto   (prompt("Ganho do mes: " + i))
+         let gasto = Number(prompt("Ganho do mes: " + i)
     }
-}
+}   
