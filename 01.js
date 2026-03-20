@@ -1,26 +1,3 @@
-// console.log("Hello World!")
-
-// let nome = "João";
-// console.log(nome);
-
-// const pi = 3.14;
-// console.log(pi);
-
-// let n1 = 1;
-// let n2 = 2;
-
-// console.log(n1 + n2);
-
-// function saudacao() {
-//     console.log("Olá meu nome é " + nome);
-// }
-
-// function somar(x, y){
-//     console.log(x + y);
-// };
-
-// saudacao();
-// somar(4, 5);
 
     function somarNumeros(){
         let soma = 0;
